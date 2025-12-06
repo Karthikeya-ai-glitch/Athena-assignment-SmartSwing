@@ -74,7 +74,7 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 The real-time workflow follows these steps:
 
 <video width="320" height="240" controls>
-  <source src="Athena_demo.mp4" type="video/mp4">
+  <source src="./Athena_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
