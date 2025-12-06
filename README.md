@@ -60,7 +60,7 @@ public/
 
 ### 1. User Interface 
 
-<img src="assets/home.jpeg" width="600">
+<img src="home.jpeg" width="600">
 
 The UI presents a mobile-first layout with three main sections:
 
@@ -74,7 +74,7 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 The real-time workflow follows these steps:
 
 <video width="600" controls>
-  <source src="assets/Athena_demo.mp4" type="video/mp4">
+  <source src="Athena_demo.mp4" type="video/mp4">
 </video>
 
 1. User selects Live Camera or Upload Video.  
@@ -85,7 +85,7 @@ The real-time workflow follows these steps:
    - Shoulder rotation slope  
    - Arm extension  
    - Tempo based on frame count  
-<img src="assets/performance_tracking.png" width="600">
+<img src="performance_tracking.png" width="600">
 
 5. A composite visual (video + overlay) is recorded using the canvas stream.  
 6. Metrics are converted into a weighted Swing Accuracy Score.  
