@@ -73,9 +73,8 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 ### 2. Real-Time Capture and Analysis 
 The real-time workflow follows these steps:
 
-<video width="400" controls>
-  <source src="Athena_demo.mp4" type="video/mp4">
-</video>
+▶️ [Click here to watch the demo video](./Athena_demo.mp4)
+
 
 1. User selects Live Camera or Upload Video.  
 2. MediaPipe Pose processes each frame to extract landmarks.  
