@@ -73,8 +73,8 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 ### 2. Real-Time Capture and Analysis 
 The real-time workflow follows these steps:
 
-[![SmartSwing Demo](https://img.youtube.com/vi/CL4B7K0Upkc/0.jpg)](https://youtu.be/CL4B7K0Upkc)
-
+<video src="https://github.com/Karthikeya-ai-glitch/Athena-assignment-SmartSwing/blob/main/Athena_demo.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 1. User selects Live Camera or Upload Video.  
 2. MediaPipe Pose processes each frame to extract landmarks.  
