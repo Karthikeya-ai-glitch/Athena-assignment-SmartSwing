@@ -73,7 +73,9 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 ### 2. Real-Time Capture and Analysis 
 The real-time workflow follows these steps:
 
-<video src="https://github.com/Karthikeya-ai-glitch/Athena-assignment-SmartSwing/blob/main/Athena_demo.mp4" controls="controls" style="max-width: 730px;">
+<video width="320" height="240" controls>
+  <source src="Athena_demo" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 1. User selects Live Camera or Upload Video.  
