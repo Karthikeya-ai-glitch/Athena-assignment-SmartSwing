@@ -73,7 +73,7 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 ### 2. Real-Time Capture and Analysis 
 The real-time workflow follows these steps:
 
-<video width="600" controls>
+<video width="400" controls>
   <source src="Athena_demo.mp4" type="video/mp4">
 </video>
 
@@ -85,7 +85,7 @@ The real-time workflow follows these steps:
    - Shoulder rotation slope  
    - Arm extension  
    - Tempo based on frame count  
-<img src="performance_tracking.jpeg" width="600">
+<img src="performance_tracking.jpeg" width="400">
 
 5. A composite visual (video + overlay) is recorded using the canvas stream.  
 6. Metrics are converted into a weighted Swing Accuracy Score.  
