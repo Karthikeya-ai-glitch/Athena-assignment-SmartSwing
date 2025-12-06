@@ -73,8 +73,7 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 ### 2. Real-Time Capture and Analysis 
 The real-time workflow follows these steps:
 
-<video src="Athena_demo.mp4" controls></video>
-
+[![SmartSwing Demo](https://img.youtube.com/vi/CL4B7K0Upkc/0.jpg)](https://youtu.be/CL4B7K0Upkc)
 
 
 1. User selects Live Camera or Upload Video.  
