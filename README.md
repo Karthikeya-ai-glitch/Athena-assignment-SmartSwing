@@ -73,7 +73,8 @@ Navigation remains at the bottom for thumb reachability, and action buttons are 
 ### 2. Real-Time Capture and Analysis 
 The real-time workflow follows these steps:
 
-▶️ [Click here to watch the demo video](./Athena_demo.mp4)
+<video src="Athena_demo.mp4" controls></video>
+
 
 
 1. User selects Live Camera or Upload Video.  
