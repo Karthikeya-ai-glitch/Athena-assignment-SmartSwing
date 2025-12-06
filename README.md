@@ -60,7 +60,7 @@ public/
 
 ### 1. User Interface 
 
-<img src="home.jpeg" width="600">
+<img src="home.jpeg" width="400">
 
 The UI presents a mobile-first layout with three main sections:
 
@@ -85,7 +85,7 @@ The real-time workflow follows these steps:
    - Shoulder rotation slope  
    - Arm extension  
    - Tempo based on frame count  
-<img src="performance_tracking.png" width="600">
+<img src="performance_tracking.jpeg" width="600">
 
 5. A composite visual (video + overlay) is recorded using the canvas stream.  
 6. Metrics are converted into a weighted Swing Accuracy Score.  
